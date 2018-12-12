@@ -1,0 +1,9 @@
+2018-10-31T03:08:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_name(), 0 passed in C:\xampp\htdocs\tapchisongkhoe\wp-content\themes\khuongthaodan\page-template-trangchu.php on line 35 and exactly 1 expected in C:\xampp\htdocs\tapchisongkhoe\wp-includes\category.php:204
+Stack trace:
+#0 C:\xampp\htdocs\tapchisongkhoe\wp-content\themes\khuongthaodan\page-template-trangchu.php(35): get_cat_name()
+#1 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tapchisongkhoe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\tapchisongkhoe\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown
+

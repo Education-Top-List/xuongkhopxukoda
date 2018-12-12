@@ -1,0 +1,8 @@
+2018-10-28T17:07:10+00:00 CRITICAL Uncaught Error: Call to undefined function get_url_site() in C:\xampp\htdocs\tapchisongkhoe\wp-content\themes\doanhnghiep\register.php:55
+Stack trace:
+#0 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template-loader.php(74): include()
+#1 C:\xampp\htdocs\tapchisongkhoe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tapchisongkhoe\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+

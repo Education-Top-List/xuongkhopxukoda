@@ -1,0 +1,32 @@
+2018-10-14T16:17:49+00:00 CRITICAL Uncaught Error: Call to undefined function the_breadcrumb() in C:\xampp\htdocs\tapchisongkhoe\wp-content\themes\doanhnghiep\includes\product\product.php:6
+Stack trace:
+#0 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\tapchisongkhoe\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\tapchisongkhoe\wp-content\themes\doanhnghiep\page.php(9): get_template_part('includes/produc...')
+#4 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\tapchisongkhoe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\tapchisongkhoe\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+
+2018-10-14T16:18:00+00:00 CRITICAL Uncaught Error: Call to undefined function breadcrumbs() in C:\xampp\htdocs\tapchisongkhoe\wp-content\themes\doanhnghiep\single.php:17
+Stack trace:
+#0 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template-loader.php(74): include()
+#1 C:\xampp\htdocs\tapchisongkhoe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tapchisongkhoe\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+
+2018-10-14T16:18:30+00:00 CRITICAL Uncaught Error: Call to undefined function the_breadcrumb() in C:\xampp\htdocs\tapchisongkhoe\wp-content\themes\doanhnghiep\includes\product\product.php:6
+Stack trace:
+#0 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\tapchisongkhoe\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\tapchisongkhoe\wp-content\themes\doanhnghiep\page.php(9): get_template_part('includes/produc...')
+#4 C:\xampp\htdocs\tapchisongkhoe\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\tapchisongkhoe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\tapchisongkhoe\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+
