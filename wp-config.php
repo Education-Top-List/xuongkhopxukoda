@@ -23,7 +23,7 @@ define('DB_NAME', 'xuongkhopxukoda');
 /** Username của database */
 define('DB_USER', 'root');
 /** Mật khẩu của database */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '123456789Aa@');
 /** Hostname của database */
 define('DB_HOST', 'localhost');
 /** Database charset sử dụng để tạo bảng database. */
